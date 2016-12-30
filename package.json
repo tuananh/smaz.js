@@ -1,0 +1,24 @@
+{
+  "name": "smaz.js",
+  "version": "1.0.0",
+  "description": "A Node.js module to compress small string using antirez's smaz.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smaz",
+    "compression",
+    "small string",
+    "antirez",
+    "smaz.js"
+  ],
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "2.5.0"
+  }
+}
